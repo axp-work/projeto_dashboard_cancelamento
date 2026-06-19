@@ -8,7 +8,7 @@
 Dashboard interativo criado com **Plotly** para análise de cancelamento de clientes de uma empresa de telecomunicações.
 
 ## Visualize o Dashboard
-Clique aqui para abrir o dashboard interativo: [dashboard_cancelamento_profissional.html]([dashboard_cancelamento_profissional.html](https://raw.githack.com/axp-work/projeto_dashboard_cancelamento/main/dashboard_cancelamento_profissional.html))
+Clique aqui para abrir o dashboard interativo: [dashboard_cancelamento_profissional.html](https://raw.githack.com/axp-work/projeto_dashboard_cancelamento/main/dashboard_cancelamento_profissional.html)
 
 ## Gráficos Incluídos
 
