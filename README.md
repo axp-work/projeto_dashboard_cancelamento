@@ -10,6 +10,10 @@ Dashboard interativo criado com **Plotly** para análise de cancelamento de clie
 ## Visualize o Dashboard
 Clique aqui para abrir o dashboard interativo: [dashboard_cancelamento_profissional.html](dashboard_cancelamento_profissional.html)
 
+## Visualize o Dashboard
+
+Clique aqui para abrir o dashboard interativo: [https://raw.githack.com/seu-usuario/projeto-dashboard-churn/main/dashboard_cancelamento_profissional.html](https://raw.githack.com/seu-usuario/projeto-dashboard-churn/main/dashboard_cancelamento_profissional.html)
+
 ## Gráficos Incluídos
 
 | Gráfico | Insight |
